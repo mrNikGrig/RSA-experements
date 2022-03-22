@@ -1,0 +1,3 @@
+this script is needed to encrypt and decrypt textual information
+with ready-made keys
+P.S. don't think about the name it's for my project)
